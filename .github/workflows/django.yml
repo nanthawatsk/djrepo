@@ -31,7 +31,7 @@ jobs:
 
         working-directory: ./backend # เข้าไปใน folder backend เสมอ
 
-  steps:
+    steps:
 
     - uses: actions/checkout@v4
 
@@ -42,7 +42,7 @@ jobs:
 
       with:
 
-        python-version: "3.13.2"
+        python-version: "3.11"
 
 
     - name: Install Dependencies
