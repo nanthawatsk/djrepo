@@ -8,7 +8,7 @@ on:
 
     paths:
 
-      - "frontend/**" # เฉพาะไฟล์ Frontend
+      - "frontend/**" # เฉพาะไฟล์ Frontend1 
 
   pull_request:
 

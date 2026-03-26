@@ -8,7 +8,7 @@ on:
 
     paths:
 
-      - "backend/**" # ทำงานเฉพาะเมื่อแก้ backend
+      - "backend/**" # ทำงานเฉพาะเมื่อแก้ backend 1
 
   pull_request:
 
